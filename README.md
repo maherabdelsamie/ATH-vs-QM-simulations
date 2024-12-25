@@ -5,6 +5,13 @@ Dr. Maher Abdelsamie<br>maherabdelsamie@gmail.com<br>
 ### Abstract
 The Active Time Hypothesis (ATH) [1] proposes a novel mechanism of entropy-phase coupling that deviates from standard quantum mechanics (QM). To investigate this hypothesis, we developed a comparative simulation framework that evaluates entropy, coherence, and phase variance metrics under both ATH and QM models across a range of parameters. Our results reveal significant differences in phase-sensitive behaviors, enhanced coherence persistence, and entropy-phase coupling under ATH. These findings offer a compelling basis for ATH’s theoretical validity and pave the way for experimental validation. The simulation framework and its results are discussed in detail.
 
+Results:
+========
+![1](https://github.com/user-attachments/assets/b2d4efad-b9f3-4e61-a70a-ec73d7fe46f5)
+![2](https://github.com/user-attachments/assets/8efe9576-e23e-49a1-83b0-722bb91c17dd)
+![3](https://github.com/user-attachments/assets/c6387d1d-7d09-404f-8b71-ee3ee9b4c2d2)
+
+
 ## References
 
 1. Abdelsamie, Maher, Redefining Gravity and Bridging Quantum Mechanics and Classical Physics: The Active Time Theory

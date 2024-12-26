@@ -508,6 +508,87 @@ The quantitative agreement between ATH predictions and simulation results across
 ![3](https://github.com/user-attachments/assets/c6387d1d-7d09-404f-8b71-ee3ee9b4c2d2)
 
 
+
+## 6. Additional Simulation on Quantum Computer
+
+Given the high cost associated with extensive quantum computations on physical quantum computers, we also ran a modified version of the quantum simulation on a quantum computer, leveraging Bluequbit. This approach enabled us to validate our theoretical predictions on actual quantum hardware while maintaining computational efficiency. By carefully optimizing the experimental parameters (3-4 qubits, reduced evolution times, and selected energy scales), we achieved meaningful results without incurring significant expenses.
+
+**6.1 Quantum Hardware Results**
+
+The quantum computer implementation yielded several notable results that corroborated our classical simulation findings:
+
+1. **Entropy Reduction**:
+- Range: 0.8992 to 0.9869 (ATH/QM ratio)
+- Maximum reduction: 10.08% (ratio: 0.8992)
+- Minimum reduction: 1.31% (ratio: 0.9869)
+- Consistent with classical predictions but with smaller variance
+
+2. **Coherence Enhancement**:
+- Coherence ratios: 1.0509 to 1.3971
+- Peak enhancement: 39.71% (versus up to 245.59% in classical simulation)
+- Minimum enhancement: 5.09%
+- ATH Dominance Measure: 0.0064 to 0.0499
+
+3. **Phase Variance Characteristics**:
+- ATH phase variance: 0.0006 to 0.0063 
+- QM phase variance: 0.0001 to 0.0002
+- Higher contrast between ATH and QM phase variances compared to classical simulation
+
+**6.2 Comparison with Classical Results**
+
+The quantum hardware implementation showed several key differences from the classical simulation:
+
+1. **Magnitude Differences**:
+- Smaller but more consistent coherence enhancement
+- Higher baseline phase variances in both ATH and QM implementations
+- More moderate entropy reduction effects
+
+2. **Stability Characteristics**:
+- More stable entropy ratios (smaller variation range)
+- More consistent coherence enhancement across trials
+- Higher noise floor in phase measurements
+
+**6.3 Hardware-Specific Insights**
+
+The quantum computer implementation revealed several hardware-specific phenomena:
+
+1. **Noise Effects**:
+- Non-zero QM phase variance (0.0001-0.0002) due to hardware noise
+- More pronounced phase dynamics in ATH implementations
+- Enhanced resistance to decoherence in ATH circuits
+
+2. **Scalability Implications**:
+- Consistent performance in 3-4 qubit regime
+- Predictable scaling of coherence enhancement
+- Reliable entropy reduction across different initial states
+
+**6.4 Validation of ATH Principles**
+
+The quantum hardware results provided additional validation of ATH's core principles:
+
+1. **Generative Faculty**:
+- Confirmed through enhanced phase variance (up to 0.0063)
+- Clear distinction from QM baseline
+- Hardware-specific quantum fluctuation patterns
+
+2. **Directive Faculty**:
+- Demonstrated via consistent coherence enhancement
+- Robust entropy reduction
+- Stable quantum state maintenance
+
+3. **Adaptive Faculty**:
+- Energy scale responsive behavior
+- Initial state adaptation
+- Temporal evolution consistency
+
+These hardware-based results not only validate the classical simulation findings but also provide new insights into ATH's behavior in real quantum systems. The reduced but consistent enhancement effects suggest that ATH's principles remain robust even in the presence of hardware noise and decoherence, offering promising implications for practical quantum computing applications.
+
+![1](https://github.com/user-attachments/assets/ada52a76-067d-4a5d-9410-596118fbc361)
+![2](https://github.com/user-attachments/assets/d7bdf15a-224f-4ed0-8b48-758a718b937d)
+![3](https://github.com/user-attachments/assets/0b889256-57c4-41d7-a4f6-5903823469ff)
+
+
+
 ## References
 
 1. Abdelsamie, Maher, Redefining Gravity and Bridging Quantum Mechanics and Classical Physics: The Active Time Theory

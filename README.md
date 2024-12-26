@@ -1,9 +1,9 @@
-# Computational Validation of Active Time Hypothesis Through Quantum Circuit Simulations: A Comparative Analysis
+# Quantum Hardware Evidence for Active Time Hypothesis: Beyond Classical Simulations
 
 Dr. Maher Abdelsamie<br>maherabdelsamie@gmail.com<br>
 
 ### Abstract
-The Active Time Hypothesis (ATH) proposes a novel mechanism of entropy-phase coupling that deviates from standard quantum mechanics (QM). To investigate this hypothesis, we developed a comparative simulation framework that evaluates entropy, coherence, and phase variance metrics under both ATH and QM models across a range of parameters. Our results reveal significant differences in phase-sensitive behaviors, enhanced coherence persistence, and entropy-phase coupling under ATH. These findings offer a compelling basis for ATH’s theoretical validity and pave the way for experimental validation. 
+The Active Time Hypothesis (ATH) proposes that time possesses intrinsic properties that actively shape quantum dynamics. To investigate this hypothesis, we developed a comparative framework testing ATH and quantum mechanical (QM) models on both simulated and real quantum hardware. Our experiments analyzed entropy, coherence, and phase variance metrics across multiple parameters. Results from quantum hardware demonstrate ATH circuits maintain 5-30% higher coherence ratios and exhibit systematic phase-entropy coupling absent in QM counterparts. Additionally, ATH systems show enhanced quantum coherence preservation (coherence ratios 1.05-1.39) exceeding theoretical QM bounds. These findings from real quantum systems provide strong experimental support for ATH's proposed mechanisms and lay groundwork for further investigation of time's active role in quantum phenomena.
 
 **Keywords**:
 Active Time Hypothesis, quantum mechanics, classical physics, quantum physics, Active Time Theory, quantum simulation

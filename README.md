@@ -511,7 +511,7 @@ The quantitative agreement between ATH predictions and simulation results across
 
 ## 6. Additional Simulation on Quantum Computer
 
-Given the high cost associated with extensive quantum computations on physical quantum computers, we also ran a modified version of the quantum simulation on a quantum computer, leveraging Bluequbit. This approach enabled us to validate our theoretical predictions on actual quantum hardware while maintaining computational efficiency. By carefully optimizing the experimental parameters (3-4 qubits, reduced evolution times, and selected energy scales), we achieved meaningful results without incurring significant expenses.
+Given the high cost associated with extensive quantum computations on physical quantum computers, we also ran [a modified version of the quantum simulation](https://github.com/maherabdelsamie/ATH-vs-QM-simulations/blob/main/quantum-main.py) on a quantum computer, leveraging Bluequbit. This approach enabled us to validate our theoretical predictions on actual quantum hardware while maintaining computational efficiency. By carefully optimizing the experimental parameters (3-4 qubits, reduced evolution times, and selected energy scales), we achieved meaningful results without incurring significant expenses.
 
 **6.1 Quantum Hardware Results**
 

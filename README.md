@@ -14,7 +14,7 @@ The Active Time Hypothesis (ATH) [1] represents a fundamental reimagining of tim
 
 Traditional quantum mechanics treats time as a parameter in the Schrödinger equation, providing a framework for describing quantum state evolution but leaving open questions about the nature of quantum measurement, wave function collapse, and the emergence of classical behavior. ATH offers a novel perspective by suggesting that these phenomena emerge from time's active properties rather than being fundamental features of quantum mechanics. This perspective becomes particularly relevant when considering phenomena that challenge our current understanding, such as quantum coherence preservation, non-local correlations, and the quantum-to-classical transition.
 
-While the theoretical framework of ATH is mathematically rigorous, experimental validation presents significant challenges due to the fundamental nature of time itself. Direct observation of time's proposed active properties requires sophisticated quantum experiments that can differentiate between standard quantum mechanical evolution and ATH-predicted behaviors. Recent experiments in quantum optics, particularly those involving time crystals, temporal boundaries, and quantum coherence, have provided indirect support for ATH's predictions, but a comprehensive experimental validation remains elusive.
+While the theoretical framework of ATH is mathematically, experimental validation presents significant challenges due to the fundamental nature of time itself. Direct observation of time's proposed active properties requires sophisticated quantum experiments that can differentiate between standard quantum mechanical evolution and ATH-predicted behaviors. Recent experiments in quantum optics, particularly those involving time crystals, temporal boundaries, and quantum coherence, have provided indirect support for ATH's predictions, but a comprehensive experimental validation remains elusive.
 
 Computational simulation offers a powerful approach to bridge this gap between theory and experiment. By implementing quantum circuits that explicitly encode ATH's three faculties and comparing their behavior with standard quantum mechanical evolution, we can test specific predictions of the hypothesis. Our simulation framework focuses on three key aspects: the emergence of non-equilibrium oscillatory behaviors in entropy dynamics, the coupling between phase evolution and entropy, and the persistence of quantum coherence under noise.
 
@@ -24,7 +24,7 @@ The primary objectives of this study are threefold:
 
 2. To quantify and analyze the differences between ATH-modified and standard quantum dynamics across a range of system parameters, including qubit number, energy scales, and evolution times.
 
-3. To test specific ATH predictions regarding entropy scaling, phase-entropy coupling, and coherence preservation through rigorous statistical analysis of simulation results.
+3. To test specific ATH predictions regarding entropy scaling, phase-entropy coupling, and coherence preservation through statistical analysis of simulation results.
 
 This computational approach not only provides a testbed for ATH's theoretical predictions but also offers insights into potential experimental implementations that could definitively validate or challenge the hypothesis. Furthermore, by exploring the emergence of complexity and order through time's proposed active properties, our study contributes to the broader understanding of quantum-to-classical transition and the fundamental nature of time in physical theory.
 
@@ -121,13 +121,13 @@ The effectiveness of this implementation is measured through three key metrics:
 2. **Phase-Entropy Coupling**: Measuring correlations between phase variance and entropy tests ATH's predicted coupling between temporal and statistical properties
 3. **Coherence Preservation**: Comparing coherence measures between ATH and standard QM implementations tests the directive faculty's ability to maintain quantum order
 
-This theoretical framework provides a rigorous foundation for testing ATH's predictions through quantum circuit simulations, establishing clear connections between the hypothesis's conceptual elements and their computational implementation.
+This theoretical framework provides a foundation for testing ATH's predictions through quantum circuit simulations, establishing clear connections between the hypothesis's conceptual elements and their computational implementation.
 
 
 
 ## 3. Methodology
 
-The methodology of our study centers on a rigorous comparative analysis between ATH-modified and standard quantum mechanical evolution. This section details our simulation architecture, measurement frameworks, and analysis protocols designed to test ATH's predictions.
+The methodology of our study centers on a comparative analysis between ATH-modified and standard quantum mechanical evolution. This section details our simulation architecture, measurement frameworks, and analysis protocols designed to test ATH's predictions.
 
 **3.1 Simulation Architecture**
 
@@ -244,7 +244,7 @@ def summarize_results(self, results):
 
 This methodology enables:
 - Systematic testing of ATH predictions
-- Rigorous comparison with standard QM
+- Comparison with standard QM
 - Statistical validation of results
 - Exploration of parameter dependencies
 - Quantification of ATH's influence on quantum dynamics
@@ -352,7 +352,7 @@ def analyze_phase_space(self, results):
 
 **4.4 Statistical Validation Framework**
 
-Our analysis includes rigorous statistical validation:
+Our analysis includes statistical validation:
 
 ```python
 def validate_results(self, results):
@@ -404,7 +404,7 @@ def run_analysis_pipeline(self):
 ```
 
 This comprehensive analysis framework enables:
-- Rigorous testing of ATH predictions
+- Testing of ATH predictions
 - Quantification of ATH's advantages over standard QM
 - Statistical validation of observed effects
 - Multi-scale analysis of temporal dynamics
